@@ -13,3 +13,8 @@ def using_pop(array)
   return woah
 
 end
+
+def pop_with_args(array)
+  yup = array.pop(2)
+  return yup
+end
