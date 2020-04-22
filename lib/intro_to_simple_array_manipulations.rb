@@ -22,5 +22,5 @@ end
 def using_shift(array)
   love = array.shift
   return love
-  
+
 end
