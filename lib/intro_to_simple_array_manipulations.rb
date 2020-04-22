@@ -24,3 +24,9 @@ def using_shift(array)
   return love
 
 end
+
+def shift_with_args(array)
+  hate = array.shift(2)
+  return hate
+  
+end
