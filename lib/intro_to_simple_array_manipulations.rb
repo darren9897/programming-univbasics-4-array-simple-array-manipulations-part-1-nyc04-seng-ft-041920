@@ -18,3 +18,9 @@ def pop_with_args(array)
   yup = array.pop(2)
   return yup
 end
+
+def using_shift(array)
+  love = array.shift
+  return love
+  
+end
